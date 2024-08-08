@@ -2,8 +2,8 @@
 IDE:Vscode
 Language: Python
 Modules/Libraries used:
--Using the Random Library. 
--Using the String library.
+-Random Library. 
+-String library.
 Project Status:
 -Done
 Program Explaination:
