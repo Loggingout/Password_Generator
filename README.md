@@ -6,3 +6,5 @@ Modules/Libraries used:
 -Using the String library.
 Project Status:
 -Done
+Program Explaination:
+-Generate a random password.
